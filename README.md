@@ -55,5 +55,5 @@ git clone https://github.com/hilman-bebe/Hilman-Tools
 ### And run this script
 ```
 cd Hilman-Tools
-python Hilman-Tools.py
+python Tools-Hilman.py
 ```
